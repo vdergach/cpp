@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  continue learn classes.cpp
+c:\users\user\yandexdisk-itname20\cpp\continue learn classes\continue learn classes\continue learn classes.cpp(41): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+continue learn classes.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Students::~Students(void)" (??1Students@@QAE@XZ) в функции "public: void * __thiscall Students::`scalar deleting destructor'(unsigned int)" (??_GStudents@@QAEPAXI@Z)
+continue learn classes.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Students::Students(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Students@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) в функции _main
+continue learn classes.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Students::get_name(void)" (?get_name@Students@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) в функции _main
+continue learn classes.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Students::get_last_name(void)" (?get_last_name@Students@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) в функции _main
+continue learn classes.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Students::set_scores(int * const)" (?set_scores@Students@@QAEXQAH@Z) в функции _main
+continue learn classes.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Students::set_average_ball(float)" (?set_average_ball@Students@@QAEXM@Z) в функции _main
+continue learn classes.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: float __thiscall Students::get_average_ball(void)" (?get_average_ball@Students@@QAEMXZ) в функции _main
+C:\Users\user\YandexDisk-itname20\cpp\continue learn classes\Debug\continue learn classes.exe : fatal error LNK1120: неразрешенных внешних элементов: 7

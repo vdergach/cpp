@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  simple calculator.cpp
+simple calculator.cpp(11): error C3861: setlocale: идентификатор не найден
+simple calculator.cpp(13): error C2065: cout: необъявленный идентификатор
+simple calculator.cpp(14): error C2065: cin: необъявленный идентификатор
+simple calculator.cpp(16): error C2065: cout: необъявленный идентификатор
+simple calculator.cpp(17): error C2065: cin: необъявленный идентификатор
+simple calculator.cpp(20): error C2065: cout: необъявленный идентификатор
+simple calculator.cpp(20): error C2065: endl: необъявленный идентификатор

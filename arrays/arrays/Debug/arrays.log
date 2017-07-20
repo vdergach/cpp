@@ -1,0 +1,4 @@
+﻿  arrays.cpp
+c:\users\snku\yandexdisk\cpp\arrays\arrays\arrays.cpp(22): error C3867: "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::length": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\snku\yandexdisk\cpp\arrays\arrays\arrays.cpp(22): error C2446: <: нет преобразования "unsigned int (__thiscall std::basic_string<char,std::char_traits<char>,std::allocator<char>>::* )(void) noexcept const" в "int"
+  c:\users\snku\yandexdisk\cpp\arrays\arrays\arrays.cpp(22): note: Не существует контекста, в котором такое преобразование возможно
